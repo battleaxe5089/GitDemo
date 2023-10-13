@@ -1,6 +1,6 @@
 # Git Demo: Karch Hertelendy 
 
-Actually learning git
+Actually learning git!!!!!!!!!!!!!!!!!!
 
 
 ## Topics 
