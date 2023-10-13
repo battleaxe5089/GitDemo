@@ -1,6 +1,6 @@
 # Git Demo: Karch Hertelendy 
 
-Actually learning git
+Actually learning git!!!!!!!!!!!!!!!!!!
 
 
 ## Topics 
@@ -8,3 +8,6 @@ Actually learning git
 - git push 
 - git clone 
 - git push
+
+## kool stuff
+-learning branching
