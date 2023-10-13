@@ -7,3 +7,4 @@ Actually learning git
 - git pull
 - git push 
 - git clone 
+- git push
